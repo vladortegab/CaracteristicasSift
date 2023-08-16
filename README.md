@@ -1,0 +1,1 @@
+#Aqui este código utiliza el algoritmo SIFT para detectar puntos clave en una imagen, los dibuja sobre la imagen en escala de grises y muestra la imagen resultante en una ventana. Esto puede ser útil para visualizar y entender cómo el algoritmo SIFT identifica características distintivas en una imagen.
